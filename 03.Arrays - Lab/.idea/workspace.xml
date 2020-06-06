@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34a542c8-fa68-43bd-9cd8-92c9b55b94f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../03.Arrays - Exercise/ArraysExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03. Java-Fundamentals-Arrays-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03.Arrays - Lab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CondenseArrayToNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EvenOddSubstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IdenticalArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReversArrayOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReversOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04.Methods - Lab/04.Methods - Lab.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cxACO6T9O7nE8xcQUvoa2fpElY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayOfWeek" />
+      <module name="03.Arrays - Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DayOfWeek" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34a542c8-fa68-43bd-9cd8-92c9b55b94f9" name="Default Changelist" comment="" />
+      <created>1591459742365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591459742365</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="58" key="FileChooserDialogImpl" timestamp="1591459917342">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="58" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1591459917342" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1591459927148">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591459927148" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1591459927148">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591459927148" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1591459927148">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591459927148" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1591459927148">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591459927148" />
+    <state x="316" y="45" key="NewModule_or_Project.wizard" timestamp="1591459925721">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="316" y="45" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1591459925721" />
+  </component>
+</project>
