@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da9c2f8a-5054-4831-b667-85a8c2b9ea9e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../04.Methods - Lab/04. Methods-Lab.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - Exercise/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - Exercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - Exercise/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - Exercise/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - Exercise/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - Exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - Exercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - Exercise/Exercise01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - Lab/.idea/dictionaries/FeroMah.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - Lab/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - Lab/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - Lab/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - Lab/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - Lab/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - Lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - Lab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - Lab/TasksLecture1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - More Exercise/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - More Exercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - More Exercise/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - More Exercise/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - More Exercise/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - More Exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - More Exercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.Basic Syntax, Conditional Statements and Loops - More Exercise/IntroductionJavaMoreExercise.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Data Types and Variables - Exercise/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Data Types and Variables - Exercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02.Data Types and Variables - Exercise/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Data Types and Variables - Exercise/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02.Data Types and Variables - Exercise/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Data Types and Variables - Exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02.Data Types and Variables - Exercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Data Types and Variables - Exercise/Еxercise02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Data Types and Variables - More Exercise/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Data Types and Variables - More Exercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02.Data Types and Variables - More Exercise/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Data Types and Variables - More Exercise/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02.Data Types and Variables - More Exercise/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Data Types and Variables - More Exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02.Data Types and Variables - More Exercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02.Data Types and Variables - More Exercise/Еxercise02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1d1M5KvDf1mfJ6eDqi6Jnvmvvdd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da9c2f8a-5054-4831-b667-85a8c2b9ea9e" name="Default Changelist" comment="" />
+      <created>1591587961988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591587961988</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="81" key="FileChooserDialogImpl" timestamp="1591587976016">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="81" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591587976016" />
+    <state x="348" y="68" key="NewModule_or_Project.wizard" timestamp="1591587983942">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="348" y="68" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1591587983942" />
+  </component>
+</project>
