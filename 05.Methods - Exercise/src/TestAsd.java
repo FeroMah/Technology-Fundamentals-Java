@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VladoTest {
+public class TestAsd {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = Integer.parseInt(sc.nextLine());
