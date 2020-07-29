@@ -5,10 +5,11 @@ import static java.util.stream.Collectors.toList;
 public class ArrayManipulator_11 {
 
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 
-        List<Integer> numbersInput = Arrays.stream(consoleReadNewLine()).map(Integer::parseInt).collect(toList());
+        List<Integer> numbersInput = Arrays.stream(sc.nextLine().toLowerCase().split("\\s+")).map(Integer::parseInt).collect(toList());
 
-        String[] nextCommand = consoleReadNewLine();
+        String[] nextCommand = sc.nextLine().toLowerCase().split("\\s+");
         while (!nextCommand[0].equals("end")) {
             String s = nextCommand[0];
             switch (s) {
@@ -101,7 +102,7 @@ public class ArrayManipulator_11 {
                     break;
                 case "first":
                     int firstNumbsListSize = Integer.parseInt(nextCommand[1]);
-                    if (!isIndexValid(firstNumbsListSize, numbersInput)) {
+                    if (firstNumbsListSize > numbersInput.size()) {
                         System.out.println("Invalid count");
                         break;
                     }
@@ -137,7 +138,7 @@ public class ArrayManipulator_11 {
                     break;
                 case "last":
                     int lastNumbsListSize = Integer.parseInt(nextCommand[1]);
-                    if (!isIndexValid(lastNumbsListSize, numbersInput)) {
+                    if (lastNumbsListSize> numbersInput.size()) {
                         System.out.println("Invalid count");
                         break;
                     }
@@ -170,7 +171,7 @@ public class ArrayManipulator_11 {
                     break;
             }
 
-            nextCommand = consoleReadNewLine();
+            nextCommand = sc.nextLine().toLowerCase().split("\\s+");
         }
         System.out.println(numbersInput);
 
@@ -199,10 +200,5 @@ public class ArrayManipulator_11 {
         result.addAll(firstPart);
         result.addAll(secondPart);
         return result;
-    }
-
-    private static String[] consoleReadNewLine() {
-        Scanner sc = new Scanner(System.in);
-        return sc.nextLine().toLowerCase().split("\\s+");
     }
 }
